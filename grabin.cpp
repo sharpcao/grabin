@@ -1,9 +1,8 @@
 /*
-	Grabin is to view hex data and rewrite to another file.  
-
-
-
-
+	Grabin is to view the hex data of file and rewrite to another file.  
+	
+	author:Sharp.Cao
+	Date:2025/1/25
 
 */
 
